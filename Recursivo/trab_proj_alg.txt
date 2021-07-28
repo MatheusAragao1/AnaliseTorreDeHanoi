@@ -1,0 +1,102 @@
+Instruções gerais: gerar apresentação em vídeo mp4; 15-20 minutos aproximadamente; imagem+voz obrigatórios (identificação) ao longo de toda a apresentação; prévia obrigatória na próxima aula daqui a sete dias (reagendar se for feriado e a dupla não estiver disponível) com os dois presentes; entrega no máximo três dias depois até as 23:59 horas; entregas após esse prazo NÃO serão recebidas e ficarão como nota zero; apresentação do video para turma na aula seguinte; entregar códigos + readme
+
+readme em arquivo zipado único. Atenção à forma de medição de tempo para os trabalhos que exigirem isso, usar a função que será fornecida pelo professor ou outras equivalentes, garantir as condições para observação de tempo.
+
+
+precisa de camera ligada
+
+entregar codigos e readme
+
+medir tempos de processamento - funcao será enviada dps
+
+Torres de Hanói: Implementar os algoritmos de divisão-e-conquista (recursivo) e interativo para o problema das torres de Hanói. Para N= 3, 4, 5, 6, 7, 8, 9, 10, ... comparar: número de movimentos de discos, tempos de processamento e sequencia de movimentos. Mostrar pseudo-códigos e complexidades. Comparar a sequência de passos dos dois algoritmos. Fazer uma animação que mostre graficamente a evolução dos movimentos e da disposição das torres. 
+
+contagem numero de movimentos disco, tempo de processamento recursivo e do interativo, imprimir a sequencia de movimentos dos dois algoritmos (fora da funcao de execução), traçar gráficos entre os algortimos, interface gráfica
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+algoritmo em C:
+
+pseudoCódigo:
+
+Iniciar
+funcao torreDeHanoi(N,inicio, destino, auxiliar)
+	Se N == 1, então
+		mover disco do inicio pro destino
+	Se não
+		torreDeHanoi(N - 1, inicio, auxiliar, destino)
+		mover disco do inicio pro destino
+		torreDeHanoi(N - 1, auxiliar, destino, inicio)
+	Fim de Se
+fim da funcao
+fim do código
+
+Analise:
+Mover n-1 discos do inicio para o auxiliar quer dizer ir do primeiro pino para o segundo pino isso pode ser feito em T(n-1) passos.
+Mover o enésimo disco do inicio para o destino quer dizer mover um disco largo do primeiro pino para o terceiro pino o que necessita de 1 passo.
+Mover n-1 discos do auxiliar para o destino quer dizer o segundo pino para o terceiro pino o que pode ser feito em T(n-1) passos.
+
+Tempo total: T(n) = T(n-1) + 1 + T(n-1)
+ou seja T(n) = 2T(n-1) + 1 para n > 1
+
+O algoritmo apresentado requer 2 /\n - 1 movimentos para transferir os discos do pino de origem para o pino de destino.
+T(n) = O(2/\n - 1) ou reescrevendo sua complexidade de tempo é O(2/\n)
+
+
+
+Códigos:
+
+#include <stdio.h>
+ 
+void torreDeHanoiComPrint(int numDisk, char pinoInicial, char pinoDestino, char pinoAuxiliar, int * seq, FILE* arq)
+{
+    (*seq)++;
+
+    if (numDisk == 1)
+    {
+        fprintf(arq, "\nMover disco 1 do pino %c para o pino %c", pinoInicial, pinoDestino);
+        printf("\nMover disco 1 do pino %c para o pino %c", pinoInicial, pinoDestino);
+        return;
+    }
+
+    torreDeHanoiComPrint(numDisk - 1, pinoInicial, pinoAuxiliar, pinoDestino, seq, arq);
+
+    fprintf(arq,"\n Mover disco %d do pino %c para o pino %c", numDisk, pinoInicial, pinoDestino );
+    printf("\n Mover disco %d do pino %c para o pino %c", numDisk, pinoInicial, pinoDestino);
+
+    torreDeHanoiComPrint(numDisk - 1, pinoAuxiliar, pinoDestino, pinoInicial, seq, arq);
+}
+
+void torreDeHanoi(int numDisk, char pinoInicial, char pinoDestino, char pinoAuxiliar)
+{
+    if (numDisk == 1)
+    {
+        return;
+    }
+
+    torreDeHanoi(numDisk - 1, pinoInicial, pinoAuxiliar, pinoDestino);
+
+    torreDeHanoi(numDisk - 1, pinoAuxiliar, pinoDestino, pinoInicial);
+}
+
+int main()
+{
+    int seq = 0;
+    int ns = 10;
+
+    FILE* novoArq = fopen("comparacoesRecursiva.txt", "w");
+
+    while(ns >= 3){
+      printf("\nA sequencia de movimentos com N = %d é:\n",ns);
+      fprintf(novoArq, "\nA sequencia de movimentos com N = %d é:\n",ns);
+      torreDeHanoiComPrint(ns, 'A', 'C', 'B', &seq, novoArq);
+      fprintf(novoArq,"\nA sequencia de passos na torre de hanoi com N = %d é: %d\n",ns,seq );
+      printf("\nA sequencia de passos na torre de hanoi é com N = %d  é: %d",ns,seq);
+      printf("\n");
+      seq = 0;
+      ns--;
+    }
+
+    fclose(novoArq);
+    return 0;
+}
