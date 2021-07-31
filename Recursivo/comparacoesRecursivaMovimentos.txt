@@ -1,0 +1,2064 @@
+
+A sequencia de movimentos com N = 10 é:
+
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 3 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 4 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 3 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 5 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 3 do pino C para o pino A
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 4 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 3 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 6 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 3 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 4 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 3 do pino C para o pino A
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 5 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 3 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 4 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 3 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 7 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 3 do pino C para o pino A
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 4 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 3 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 5 do pino C para o pino A
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 3 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 4 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 3 do pino C para o pino A
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 6 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 3 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 4 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 3 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 5 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 3 do pino C para o pino A
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 4 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 3 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 8 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 3 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 4 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 3 do pino C para o pino A
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 5 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 3 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 4 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 3 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 6 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 3 do pino C para o pino A
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 4 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 3 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 5 do pino C para o pino A
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 3 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 4 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 3 do pino C para o pino A
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 7 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 3 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 4 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 3 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 5 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 3 do pino C para o pino A
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 4 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 3 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 6 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 3 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 4 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 3 do pino C para o pino A
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 5 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 3 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 4 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 3 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 9 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 3 do pino C para o pino A
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 4 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 3 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 5 do pino C para o pino A
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 3 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 4 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 3 do pino C para o pino A
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 6 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 3 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 4 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 3 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 5 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 3 do pino C para o pino A
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 4 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 3 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 7 do pino C para o pino A
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 3 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 4 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 3 do pino C para o pino A
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 5 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 3 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 4 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 3 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 6 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 3 do pino C para o pino A
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 4 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 3 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 5 do pino C para o pino A
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 3 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 4 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 3 do pino C para o pino A
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 8 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 3 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 4 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 3 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 5 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 3 do pino C para o pino A
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 4 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 3 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 6 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 3 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 4 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 3 do pino C para o pino A
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 5 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 3 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 4 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 3 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 7 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 3 do pino C para o pino A
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 4 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 3 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 5 do pino C para o pino A
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 3 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 4 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 3 do pino C para o pino A
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 6 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 3 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 4 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 3 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 5 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 3 do pino C para o pino A
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 4 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 3 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 10 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 3 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 4 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 3 do pino C para o pino A
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 5 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 3 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 4 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 3 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 6 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 3 do pino C para o pino A
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 4 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 3 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 5 do pino C para o pino A
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 3 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 4 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 3 do pino C para o pino A
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 7 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 3 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 4 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 3 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 5 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 3 do pino C para o pino A
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 4 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 3 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 6 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 3 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 4 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 3 do pino C para o pino A
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 5 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 3 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 4 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 3 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 8 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 3 do pino C para o pino A
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 4 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 3 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 5 do pino C para o pino A
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 3 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 4 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 3 do pino C para o pino A
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 6 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 3 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 4 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 3 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 5 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 3 do pino C para o pino A
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 4 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 3 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 7 do pino C para o pino A
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 3 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 4 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 3 do pino C para o pino A
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 5 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 3 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 4 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 3 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 6 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 3 do pino C para o pino A
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 4 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 3 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 5 do pino C para o pino A
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 3 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 4 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 3 do pino C para o pino A
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 9 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 3 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 4 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 3 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 5 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 3 do pino C para o pino A
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 4 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 3 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 6 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 3 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 4 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 3 do pino C para o pino A
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 5 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 3 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 4 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 3 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 7 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 3 do pino C para o pino A
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 4 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 3 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 5 do pino C para o pino A
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 3 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 4 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 3 do pino C para o pino A
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 6 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 3 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 4 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 3 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 5 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 3 do pino C para o pino A
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 4 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 3 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 8 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 3 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 4 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 3 do pino C para o pino A
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 5 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 3 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 4 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 3 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 6 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 3 do pino C para o pino A
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 4 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 3 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 5 do pino C para o pino A
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 3 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 4 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 3 do pino C para o pino A
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 7 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 3 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 4 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 3 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 5 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 3 do pino C para o pino A
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 4 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 3 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 6 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 3 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 4 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 3 do pino C para o pino A
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 5 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 3 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 4 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 3 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+A sequencia de passos na torre de hanoi com N = 10 é: 1023
+
+A sequencia de movimentos com N = 9 é:
+
+Mover disco 1 do pino A para o pino C
+ Mover disco 2 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 3 do pino A para o pino C
+Mover disco 1 do pino B para o pino A
+ Mover disco 2 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+ Mover disco 4 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 2 do pino C para o pino A
+Mover disco 1 do pino B para o pino A
+ Mover disco 3 do pino C para o pino B
+Mover disco 1 do pino A para o pino C
+ Mover disco 2 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 5 do pino A para o pino C
+Mover disco 1 do pino B para o pino A
+ Mover disco 2 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+ Mover disco 3 do pino B para o pino A
+Mover disco 1 do pino C para o pino B
+ Mover disco 2 do pino C para o pino A
+Mover disco 1 do pino B para o pino A
+ Mover disco 4 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+ Mover disco 2 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 3 do pino A para o pino C
+Mover disco 1 do pino B para o pino A
+ Mover disco 2 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+ Mover disco 6 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 2 do pino C para o pino A
+Mover disco 1 do pino B para o pino A
+ Mover disco 3 do pino C para o pino B
+Mover disco 1 do pino A para o pino C
+ Mover disco 2 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 4 do pino C para o pino A
+Mover disco 1 do pino B para o pino A
+ Mover disco 2 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+ Mover disco 3 do pino B para o pino A
+Mover disco 1 do pino C para o pino B
+ Mover disco 2 do pino C para o pino A
+Mover disco 1 do pino B para o pino A
+ Mover disco 5 do pino C para o pino B
+Mover disco 1 do pino A para o pino C
+ Mover disco 2 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 3 do pino A para o pino C
+Mover disco 1 do pino B para o pino A
+ Mover disco 2 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+ Mover disco 4 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 2 do pino C para o pino A
+Mover disco 1 do pino B para o pino A
+ Mover disco 3 do pino C para o pino B
+Mover disco 1 do pino A para o pino C
+ Mover disco 2 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 7 do pino A para o pino C
+Mover disco 1 do pino B para o pino A
+ Mover disco 2 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+ Mover disco 3 do pino B para o pino A
+Mover disco 1 do pino C para o pino B
+ Mover disco 2 do pino C para o pino A
+Mover disco 1 do pino B para o pino A
+ Mover disco 4 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+ Mover disco 2 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 3 do pino A para o pino C
+Mover disco 1 do pino B para o pino A
+ Mover disco 2 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+ Mover disco 5 do pino B para o pino A
+Mover disco 1 do pino C para o pino B
+ Mover disco 2 do pino C para o pino A
+Mover disco 1 do pino B para o pino A
+ Mover disco 3 do pino C para o pino B
+Mover disco 1 do pino A para o pino C
+ Mover disco 2 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 4 do pino C para o pino A
+Mover disco 1 do pino B para o pino A
+ Mover disco 2 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+ Mover disco 3 do pino B para o pino A
+Mover disco 1 do pino C para o pino B
+ Mover disco 2 do pino C para o pino A
+Mover disco 1 do pino B para o pino A
+ Mover disco 6 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+ Mover disco 2 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 3 do pino A para o pino C
+Mover disco 1 do pino B para o pino A
+ Mover disco 2 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+ Mover disco 4 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 2 do pino C para o pino A
+Mover disco 1 do pino B para o pino A
+ Mover disco 3 do pino C para o pino B
+Mover disco 1 do pino A para o pino C
+ Mover disco 2 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 5 do pino A para o pino C
+Mover disco 1 do pino B para o pino A
+ Mover disco 2 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+ Mover disco 3 do pino B para o pino A
+Mover disco 1 do pino C para o pino B
+ Mover disco 2 do pino C para o pino A
+Mover disco 1 do pino B para o pino A
+ Mover disco 4 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+ Mover disco 2 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 3 do pino A para o pino C
+Mover disco 1 do pino B para o pino A
+ Mover disco 2 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+ Mover disco 8 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 2 do pino C para o pino A
+Mover disco 1 do pino B para o pino A
+ Mover disco 3 do pino C para o pino B
+Mover disco 1 do pino A para o pino C
+ Mover disco 2 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 4 do pino C para o pino A
+Mover disco 1 do pino B para o pino A
+ Mover disco 2 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+ Mover disco 3 do pino B para o pino A
+Mover disco 1 do pino C para o pino B
+ Mover disco 2 do pino C para o pino A
+Mover disco 1 do pino B para o pino A
+ Mover disco 5 do pino C para o pino B
+Mover disco 1 do pino A para o pino C
+ Mover disco 2 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 3 do pino A para o pino C
+Mover disco 1 do pino B para o pino A
+ Mover disco 2 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+ Mover disco 4 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 2 do pino C para o pino A
+Mover disco 1 do pino B para o pino A
+ Mover disco 3 do pino C para o pino B
+Mover disco 1 do pino A para o pino C
+ Mover disco 2 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 6 do pino C para o pino A
+Mover disco 1 do pino B para o pino A
+ Mover disco 2 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+ Mover disco 3 do pino B para o pino A
+Mover disco 1 do pino C para o pino B
+ Mover disco 2 do pino C para o pino A
+Mover disco 1 do pino B para o pino A
+ Mover disco 4 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+ Mover disco 2 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 3 do pino A para o pino C
+Mover disco 1 do pino B para o pino A
+ Mover disco 2 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+ Mover disco 5 do pino B para o pino A
+Mover disco 1 do pino C para o pino B
+ Mover disco 2 do pino C para o pino A
+Mover disco 1 do pino B para o pino A
+ Mover disco 3 do pino C para o pino B
+Mover disco 1 do pino A para o pino C
+ Mover disco 2 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 4 do pino C para o pino A
+Mover disco 1 do pino B para o pino A
+ Mover disco 2 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+ Mover disco 3 do pino B para o pino A
+Mover disco 1 do pino C para o pino B
+ Mover disco 2 do pino C para o pino A
+Mover disco 1 do pino B para o pino A
+ Mover disco 7 do pino C para o pino B
+Mover disco 1 do pino A para o pino C
+ Mover disco 2 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 3 do pino A para o pino C
+Mover disco 1 do pino B para o pino A
+ Mover disco 2 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+ Mover disco 4 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 2 do pino C para o pino A
+Mover disco 1 do pino B para o pino A
+ Mover disco 3 do pino C para o pino B
+Mover disco 1 do pino A para o pino C
+ Mover disco 2 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 5 do pino A para o pino C
+Mover disco 1 do pino B para o pino A
+ Mover disco 2 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+ Mover disco 3 do pino B para o pino A
+Mover disco 1 do pino C para o pino B
+ Mover disco 2 do pino C para o pino A
+Mover disco 1 do pino B para o pino A
+ Mover disco 4 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+ Mover disco 2 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 3 do pino A para o pino C
+Mover disco 1 do pino B para o pino A
+ Mover disco 2 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+ Mover disco 6 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 2 do pino C para o pino A
+Mover disco 1 do pino B para o pino A
+ Mover disco 3 do pino C para o pino B
+Mover disco 1 do pino A para o pino C
+ Mover disco 2 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 4 do pino C para o pino A
+Mover disco 1 do pino B para o pino A
+ Mover disco 2 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+ Mover disco 3 do pino B para o pino A
+Mover disco 1 do pino C para o pino B
+ Mover disco 2 do pino C para o pino A
+Mover disco 1 do pino B para o pino A
+ Mover disco 5 do pino C para o pino B
+Mover disco 1 do pino A para o pino C
+ Mover disco 2 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 3 do pino A para o pino C
+Mover disco 1 do pino B para o pino A
+ Mover disco 2 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+ Mover disco 4 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 2 do pino C para o pino A
+Mover disco 1 do pino B para o pino A
+ Mover disco 3 do pino C para o pino B
+Mover disco 1 do pino A para o pino C
+ Mover disco 2 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 9 do pino A para o pino C
+Mover disco 1 do pino B para o pino A
+ Mover disco 2 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+ Mover disco 3 do pino B para o pino A
+Mover disco 1 do pino C para o pino B
+ Mover disco 2 do pino C para o pino A
+Mover disco 1 do pino B para o pino A
+ Mover disco 4 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+ Mover disco 2 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 3 do pino A para o pino C
+Mover disco 1 do pino B para o pino A
+ Mover disco 2 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+ Mover disco 5 do pino B para o pino A
+Mover disco 1 do pino C para o pino B
+ Mover disco 2 do pino C para o pino A
+Mover disco 1 do pino B para o pino A
+ Mover disco 3 do pino C para o pino B
+Mover disco 1 do pino A para o pino C
+ Mover disco 2 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 4 do pino C para o pino A
+Mover disco 1 do pino B para o pino A
+ Mover disco 2 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+ Mover disco 3 do pino B para o pino A
+Mover disco 1 do pino C para o pino B
+ Mover disco 2 do pino C para o pino A
+Mover disco 1 do pino B para o pino A
+ Mover disco 6 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+ Mover disco 2 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 3 do pino A para o pino C
+Mover disco 1 do pino B para o pino A
+ Mover disco 2 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+ Mover disco 4 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 2 do pino C para o pino A
+Mover disco 1 do pino B para o pino A
+ Mover disco 3 do pino C para o pino B
+Mover disco 1 do pino A para o pino C
+ Mover disco 2 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 5 do pino A para o pino C
+Mover disco 1 do pino B para o pino A
+ Mover disco 2 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+ Mover disco 3 do pino B para o pino A
+Mover disco 1 do pino C para o pino B
+ Mover disco 2 do pino C para o pino A
+Mover disco 1 do pino B para o pino A
+ Mover disco 4 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+ Mover disco 2 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 3 do pino A para o pino C
+Mover disco 1 do pino B para o pino A
+ Mover disco 2 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+ Mover disco 7 do pino B para o pino A
+Mover disco 1 do pino C para o pino B
+ Mover disco 2 do pino C para o pino A
+Mover disco 1 do pino B para o pino A
+ Mover disco 3 do pino C para o pino B
+Mover disco 1 do pino A para o pino C
+ Mover disco 2 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 4 do pino C para o pino A
+Mover disco 1 do pino B para o pino A
+ Mover disco 2 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+ Mover disco 3 do pino B para o pino A
+Mover disco 1 do pino C para o pino B
+ Mover disco 2 do pino C para o pino A
+Mover disco 1 do pino B para o pino A
+ Mover disco 5 do pino C para o pino B
+Mover disco 1 do pino A para o pino C
+ Mover disco 2 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 3 do pino A para o pino C
+Mover disco 1 do pino B para o pino A
+ Mover disco 2 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+ Mover disco 4 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 2 do pino C para o pino A
+Mover disco 1 do pino B para o pino A
+ Mover disco 3 do pino C para o pino B
+Mover disco 1 do pino A para o pino C
+ Mover disco 2 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 6 do pino C para o pino A
+Mover disco 1 do pino B para o pino A
+ Mover disco 2 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+ Mover disco 3 do pino B para o pino A
+Mover disco 1 do pino C para o pino B
+ Mover disco 2 do pino C para o pino A
+Mover disco 1 do pino B para o pino A
+ Mover disco 4 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+ Mover disco 2 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 3 do pino A para o pino C
+Mover disco 1 do pino B para o pino A
+ Mover disco 2 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+ Mover disco 5 do pino B para o pino A
+Mover disco 1 do pino C para o pino B
+ Mover disco 2 do pino C para o pino A
+Mover disco 1 do pino B para o pino A
+ Mover disco 3 do pino C para o pino B
+Mover disco 1 do pino A para o pino C
+ Mover disco 2 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 4 do pino C para o pino A
+Mover disco 1 do pino B para o pino A
+ Mover disco 2 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+ Mover disco 3 do pino B para o pino A
+Mover disco 1 do pino C para o pino B
+ Mover disco 2 do pino C para o pino A
+Mover disco 1 do pino B para o pino A
+ Mover disco 8 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+ Mover disco 2 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 3 do pino A para o pino C
+Mover disco 1 do pino B para o pino A
+ Mover disco 2 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+ Mover disco 4 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 2 do pino C para o pino A
+Mover disco 1 do pino B para o pino A
+ Mover disco 3 do pino C para o pino B
+Mover disco 1 do pino A para o pino C
+ Mover disco 2 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 5 do pino A para o pino C
+Mover disco 1 do pino B para o pino A
+ Mover disco 2 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+ Mover disco 3 do pino B para o pino A
+Mover disco 1 do pino C para o pino B
+ Mover disco 2 do pino C para o pino A
+Mover disco 1 do pino B para o pino A
+ Mover disco 4 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+ Mover disco 2 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 3 do pino A para o pino C
+Mover disco 1 do pino B para o pino A
+ Mover disco 2 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+ Mover disco 6 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 2 do pino C para o pino A
+Mover disco 1 do pino B para o pino A
+ Mover disco 3 do pino C para o pino B
+Mover disco 1 do pino A para o pino C
+ Mover disco 2 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 4 do pino C para o pino A
+Mover disco 1 do pino B para o pino A
+ Mover disco 2 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+ Mover disco 3 do pino B para o pino A
+Mover disco 1 do pino C para o pino B
+ Mover disco 2 do pino C para o pino A
+Mover disco 1 do pino B para o pino A
+ Mover disco 5 do pino C para o pino B
+Mover disco 1 do pino A para o pino C
+ Mover disco 2 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 3 do pino A para o pino C
+Mover disco 1 do pino B para o pino A
+ Mover disco 2 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+ Mover disco 4 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 2 do pino C para o pino A
+Mover disco 1 do pino B para o pino A
+ Mover disco 3 do pino C para o pino B
+Mover disco 1 do pino A para o pino C
+ Mover disco 2 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 7 do pino A para o pino C
+Mover disco 1 do pino B para o pino A
+ Mover disco 2 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+ Mover disco 3 do pino B para o pino A
+Mover disco 1 do pino C para o pino B
+ Mover disco 2 do pino C para o pino A
+Mover disco 1 do pino B para o pino A
+ Mover disco 4 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+ Mover disco 2 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 3 do pino A para o pino C
+Mover disco 1 do pino B para o pino A
+ Mover disco 2 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+ Mover disco 5 do pino B para o pino A
+Mover disco 1 do pino C para o pino B
+ Mover disco 2 do pino C para o pino A
+Mover disco 1 do pino B para o pino A
+ Mover disco 3 do pino C para o pino B
+Mover disco 1 do pino A para o pino C
+ Mover disco 2 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 4 do pino C para o pino A
+Mover disco 1 do pino B para o pino A
+ Mover disco 2 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+ Mover disco 3 do pino B para o pino A
+Mover disco 1 do pino C para o pino B
+ Mover disco 2 do pino C para o pino A
+Mover disco 1 do pino B para o pino A
+ Mover disco 6 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+ Mover disco 2 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 3 do pino A para o pino C
+Mover disco 1 do pino B para o pino A
+ Mover disco 2 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+ Mover disco 4 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 2 do pino C para o pino A
+Mover disco 1 do pino B para o pino A
+ Mover disco 3 do pino C para o pino B
+Mover disco 1 do pino A para o pino C
+ Mover disco 2 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 5 do pino A para o pino C
+Mover disco 1 do pino B para o pino A
+ Mover disco 2 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+ Mover disco 3 do pino B para o pino A
+Mover disco 1 do pino C para o pino B
+ Mover disco 2 do pino C para o pino A
+Mover disco 1 do pino B para o pino A
+ Mover disco 4 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+ Mover disco 2 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 3 do pino A para o pino C
+Mover disco 1 do pino B para o pino A
+ Mover disco 2 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+A sequencia de passos na torre de hanoi com N = 9 é: 511
+
+A sequencia de movimentos com N = 8 é:
+
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 3 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 4 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 3 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 5 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 3 do pino C para o pino A
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 4 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 3 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 6 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 3 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 4 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 3 do pino C para o pino A
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 5 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 3 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 4 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 3 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 7 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 3 do pino C para o pino A
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 4 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 3 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 5 do pino C para o pino A
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 3 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 4 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 3 do pino C para o pino A
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 6 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 3 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 4 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 3 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 5 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 3 do pino C para o pino A
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 4 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 3 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 8 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 3 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 4 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 3 do pino C para o pino A
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 5 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 3 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 4 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 3 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 6 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 3 do pino C para o pino A
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 4 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 3 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 5 do pino C para o pino A
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 3 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 4 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 3 do pino C para o pino A
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 7 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 3 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 4 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 3 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 5 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 3 do pino C para o pino A
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 4 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 3 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 6 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 3 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 4 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 3 do pino C para o pino A
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 5 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 3 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 4 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 3 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+A sequencia de passos na torre de hanoi com N = 8 é: 255
+
+A sequencia de movimentos com N = 7 é:
+
+Mover disco 1 do pino A para o pino C
+ Mover disco 2 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 3 do pino A para o pino C
+Mover disco 1 do pino B para o pino A
+ Mover disco 2 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+ Mover disco 4 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 2 do pino C para o pino A
+Mover disco 1 do pino B para o pino A
+ Mover disco 3 do pino C para o pino B
+Mover disco 1 do pino A para o pino C
+ Mover disco 2 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 5 do pino A para o pino C
+Mover disco 1 do pino B para o pino A
+ Mover disco 2 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+ Mover disco 3 do pino B para o pino A
+Mover disco 1 do pino C para o pino B
+ Mover disco 2 do pino C para o pino A
+Mover disco 1 do pino B para o pino A
+ Mover disco 4 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+ Mover disco 2 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 3 do pino A para o pino C
+Mover disco 1 do pino B para o pino A
+ Mover disco 2 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+ Mover disco 6 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 2 do pino C para o pino A
+Mover disco 1 do pino B para o pino A
+ Mover disco 3 do pino C para o pino B
+Mover disco 1 do pino A para o pino C
+ Mover disco 2 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 4 do pino C para o pino A
+Mover disco 1 do pino B para o pino A
+ Mover disco 2 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+ Mover disco 3 do pino B para o pino A
+Mover disco 1 do pino C para o pino B
+ Mover disco 2 do pino C para o pino A
+Mover disco 1 do pino B para o pino A
+ Mover disco 5 do pino C para o pino B
+Mover disco 1 do pino A para o pino C
+ Mover disco 2 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 3 do pino A para o pino C
+Mover disco 1 do pino B para o pino A
+ Mover disco 2 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+ Mover disco 4 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 2 do pino C para o pino A
+Mover disco 1 do pino B para o pino A
+ Mover disco 3 do pino C para o pino B
+Mover disco 1 do pino A para o pino C
+ Mover disco 2 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 7 do pino A para o pino C
+Mover disco 1 do pino B para o pino A
+ Mover disco 2 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+ Mover disco 3 do pino B para o pino A
+Mover disco 1 do pino C para o pino B
+ Mover disco 2 do pino C para o pino A
+Mover disco 1 do pino B para o pino A
+ Mover disco 4 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+ Mover disco 2 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 3 do pino A para o pino C
+Mover disco 1 do pino B para o pino A
+ Mover disco 2 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+ Mover disco 5 do pino B para o pino A
+Mover disco 1 do pino C para o pino B
+ Mover disco 2 do pino C para o pino A
+Mover disco 1 do pino B para o pino A
+ Mover disco 3 do pino C para o pino B
+Mover disco 1 do pino A para o pino C
+ Mover disco 2 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 4 do pino C para o pino A
+Mover disco 1 do pino B para o pino A
+ Mover disco 2 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+ Mover disco 3 do pino B para o pino A
+Mover disco 1 do pino C para o pino B
+ Mover disco 2 do pino C para o pino A
+Mover disco 1 do pino B para o pino A
+ Mover disco 6 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+ Mover disco 2 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 3 do pino A para o pino C
+Mover disco 1 do pino B para o pino A
+ Mover disco 2 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+ Mover disco 4 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 2 do pino C para o pino A
+Mover disco 1 do pino B para o pino A
+ Mover disco 3 do pino C para o pino B
+Mover disco 1 do pino A para o pino C
+ Mover disco 2 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 5 do pino A para o pino C
+Mover disco 1 do pino B para o pino A
+ Mover disco 2 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+ Mover disco 3 do pino B para o pino A
+Mover disco 1 do pino C para o pino B
+ Mover disco 2 do pino C para o pino A
+Mover disco 1 do pino B para o pino A
+ Mover disco 4 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+ Mover disco 2 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 3 do pino A para o pino C
+Mover disco 1 do pino B para o pino A
+ Mover disco 2 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+A sequencia de passos na torre de hanoi com N = 7 é: 127
+
+A sequencia de movimentos com N = 6 é:
+
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 3 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 4 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 3 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 5 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 3 do pino C para o pino A
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 4 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 3 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 6 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 3 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 4 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 3 do pino C para o pino A
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 5 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 3 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 4 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 3 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+A sequencia de passos na torre de hanoi com N = 6 é: 63
+
+A sequencia de movimentos com N = 5 é:
+
+Mover disco 1 do pino A para o pino C
+ Mover disco 2 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 3 do pino A para o pino C
+Mover disco 1 do pino B para o pino A
+ Mover disco 2 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+ Mover disco 4 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 2 do pino C para o pino A
+Mover disco 1 do pino B para o pino A
+ Mover disco 3 do pino C para o pino B
+Mover disco 1 do pino A para o pino C
+ Mover disco 2 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 5 do pino A para o pino C
+Mover disco 1 do pino B para o pino A
+ Mover disco 2 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+ Mover disco 3 do pino B para o pino A
+Mover disco 1 do pino C para o pino B
+ Mover disco 2 do pino C para o pino A
+Mover disco 1 do pino B para o pino A
+ Mover disco 4 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+ Mover disco 2 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 3 do pino A para o pino C
+Mover disco 1 do pino B para o pino A
+ Mover disco 2 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+A sequencia de passos na torre de hanoi com N = 5 é: 31
+
+A sequencia de movimentos com N = 4 é:
+
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 3 do pino A para o pino B
+Mover disco 1 do pino C para o pino A
+ Mover disco 2 do pino C para o pino B
+Mover disco 1 do pino A para o pino B
+ Mover disco 4 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+ Mover disco 2 do pino B para o pino A
+Mover disco 1 do pino C para o pino A
+ Mover disco 3 do pino B para o pino C
+Mover disco 1 do pino A para o pino B
+ Mover disco 2 do pino A para o pino C
+Mover disco 1 do pino B para o pino C
+A sequencia de passos na torre de hanoi com N = 4 é: 15
+
+A sequencia de movimentos com N = 3 é:
+
+Mover disco 1 do pino A para o pino C
+ Mover disco 2 do pino A para o pino B
+Mover disco 1 do pino C para o pino B
+ Mover disco 3 do pino A para o pino C
+Mover disco 1 do pino B para o pino A
+ Mover disco 2 do pino B para o pino C
+Mover disco 1 do pino A para o pino C
+A sequencia de passos na torre de hanoi com N = 3 é: 7
