@@ -1,19 +1,19 @@
 
-Tempo de CPU total para N = 30 é 2.187000
+Tempo de CPU total para N = 30 é 2.204000
 
-Tempo de CPU total para N = 29 é 1.063000
+Tempo de CPU total para N = 29 é 1.078000
 
-Tempo de CPU total para N = 28 é 0.546000
+Tempo de CPU total para N = 28 é 0.562000
 
-Tempo de CPU total para N = 27 é 0.266000
+Tempo de CPU total para N = 27 é 0.281000
 
 Tempo de CPU total para N = 26 é 0.141000
 
-Tempo de CPU total para N = 25 é 0.062000
+Tempo de CPU total para N = 25 é 0.063000
 
 Tempo de CPU total para N = 24 é 0.031000
 
-Tempo de CPU total para N = 23 é 0.016000
+Tempo de CPU total para N = 23 é 0.015000
 
 Tempo de CPU total para N = 22 é 0.016000
 
