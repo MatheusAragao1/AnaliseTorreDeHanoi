@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/fifap/CLionProjects/AnaliseTorreDeHanoi/Recursivo/torreDeHanoiRecursiva.c
+stdio.h
+-
+sys/resource.h
+-
+stdlib.h
+-
+
