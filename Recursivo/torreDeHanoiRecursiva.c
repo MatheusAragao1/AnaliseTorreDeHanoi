@@ -87,44 +87,116 @@ void moverDiscos(int pinoOrigem[], int pinoDestino[])
     }
 }
 
-void torreDeHanoiIterativa_metodo_xxx(int numDisk, int printar, int *seq, FILE *arq)
+void insercao(int disk, int *vetor, int n){
+    int *temp, *temp2;
+    for (int i= n-1;i>=0 ; i--){
+        vetor[i+1] = vetor[i];
+    }
+    vetor[0]=disk;
+}
+
+void remocao(int *vetor, int n){
+    for (int i=0;i< n; i++){
+        vetor[i] = vetor[i+1];
+    }
+}
+
+int movimentolegal(int *p, int *q, int n){
+    int p0, q0;
+    p0 = p[0];
+    q0 = q[0];
+
+    if ((p0 < q0) || (q0 == 0)){ //movimento legal
+        insercao(p0, q, n);
+        remocao(p, n);
+        return 1; //direcao original
+    }
+    else { //movimento legal
+        insercao(q0, p, n);
+        remocao(q, n);
+        return 0; //direçao inversa
+    }
+}
+
+void torreDeHanoiIterativa_metodo_MovimentoLegal(int numDisk, int printar, int *seq, FILE *arq)
 {
-    //https://www.irjet.net/archives/V8/i3/IRJET-V8I352.pdf
-    int k, tot;
-    int de, para;
+    //https://www.geeksforgeeks.org/iterative-tower-of-hanoi/
+    //https://en.m.wikipedia.org/wiki/Tower_of_Hanoi
+    int k;
     int even;
+    int *A, *B, *C;
+    int direcao;
+    char *De, *Para;
+
+    A = (int*)malloc((numDisk+1)*sizeof(int*));
+    B = (int*)malloc((numDisk+1)*sizeof(int*));
+    C = (int*)malloc((numDisk+1)*sizeof(int*));
+
+    for (int i=0; i<numDisk; i++){
+        A[i] =i+1;
+        B[i] =  0;
+        C[i] =  0;
+        //printf(" A[%d] = %d", i, A[i]);
+    }
+    A[numDisk] = 0;
+    B[numDisk] = 0;
+    C[numDisk] = 0;
+
+
     if (numDisk % 2 == 0) {
         even = 1; //é par
     }
-    else even = 0;
-    tot=2^numDisk-1;
-    for (k = 1; k < tot; k++){
+    else {even = 0;}
+    //printf(" \n  k = %d", k);
+    for (k = 1; k < (1 << numDisk); k++){
         if (even == 0) {
             if (k % 3 == 1) {
                 //movimentolegal(A, C, *direcao);
+                direcao = movimentolegal(A, C, numDisk);
+                if (direcao) {De = "A"; Para= "C";}
+                else         {De = "C"; Para= "A";}
             }
             if (k % 3 == 2) {
                 //movimentolegal(A, B, *direcao);
+                direcao = movimentolegal(A, B, numDisk);
+                if (direcao) {De = "A"; Para= "B";}
+                else         {De = "B"; Para= "A";}
             }
             if (k % 3 == 0) {
                 //movimentolegal(B, C, *direcao);
+                direcao = movimentolegal(A, C, numDisk);
+                if (direcao) {De = "B"; Para= "C";}
+                else         {De = "C"; Para= "B";}
             }
-
         } else if (even == 1) {
             if (k % 3 == 1) {
                 //movimentolegal(A, B, *direcao);
+                direcao = movimentolegal(A, B, numDisk);
+                if (direcao) {De = "A"; Para= "B";}
+                else         {De = "B"; Para= "A";}
             }
             if (k % 3 == 2) {
                 //movimentolegal(A, C, *direcao);
+                direcao = movimentolegal(A, C, numDisk);
+                if (direcao) {De = "A"; Para= "C";}
+                else         {De = "C"; Para= "A";}
             }
             if (k % 3 == 0) {
                 //movimentolegal(C, B, *direcao);
+                direcao = movimentolegal(C, B, numDisk);
+                if (direcao) {De = "C"; Para="B";}
+                else         {De = "B"; Para="C";}
             }
         }
-        printf("\n Mover disco de pino %d para o pino %d", de, para);
-        fprintf(arq, "\n Mover disco de pino %d para o pino %d", de, para);
-        (*seq)++;
+            if (printar == 1) {
+                printf(      "\n Mover disco de pino %s para o pino %s", De, Para);
+                fprintf(arq, "\n Mover disco de pino %s para o pino %s", De, Para);
+            }
+            (*seq)++;
     }
+    free(A);
+    free(B);
+    free(C);
 }
 
 void torreDeHanoiIterativa_metodo_Bit_a_Bit(int numDisk, int printar, int *seq, FILE *arq)
@@ -240,7 +312,7 @@ int main()
     {
         printf("1 - Método Recursivo: \n"
                "2 - Método Iterativo bit a bit | \n"
-               "3 - Método Iterativo xxxxxxxxx | \n"
+               "3 - Método Iterativo MovimentoLegal | \n"
                "4 - Abortar\n");
         scanf("%d", &metodo);
 
@@ -279,11 +351,11 @@ int main()
             }
             if (metodo == 3) {
                 ns = 10;
-                FILE *novoArq = fopen("comparacoesIterativoxxxMovimentos.txt", "w");
+                FILE *novoArq = fopen("comparacoesIterativoMovimentoLegalMovimentos.txt", "w");
                 while (ns >= 3) {
                     printf("\nA sequencia de movimentos com N = %d é:\n", ns);
                     fprintf(novoArq, "\nA sequencia de movimentos com N = %d é:\n", ns);
-                    torreDeHanoiIterativa_metodo_xxx(ns, 1, &seq, novoArq);
+                    torreDeHanoiIterativa_metodo_MovimentoLegal(ns, 1, &seq, novoArq);
                     fprintf(novoArq, "\nA sequencia de passos na torre de hanoi com N = %d é: %d\n", ns, seq);
                     printf("\nA sequencia de passos na torre de hanoi é com N = %d  é: %d", ns, seq);
                     printf("\n");
@@ -360,12 +432,12 @@ int main()
                 ns = 30;
             }
             if (metodo == 3) {
-                FILE *novoArq2 = fopen("comparacoesIterativaxxxTempoProcessamento.txt", "w");
+                FILE *novoArq2 = fopen("comparacoesIterativaMovimentoLegalTempoProcessamento.txt", "w");
                 ns = 30;
                 while (ns >= 3) {
                     Tempo_CPU_Sistema(&s_CPU_inicial, &s_total_inicial);
 
-                    torreDeHanoiIterativa_metodo_xxx(ns, 0, &seq, novoArq2);
+                    torreDeHanoiIterativa_metodo_MovimentoLegal(ns, 0, &seq, novoArq2);
 
                     Tempo_CPU_Sistema(&s_CPU_final, &s_total_final);
 
