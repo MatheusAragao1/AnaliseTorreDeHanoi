@@ -514,516 +514,516 @@ A sequencia de movimentos com N = 10 é:
  Mover disco de pino A para o pino B
  Mover disco de pino A para o pino C
  Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino A para o pino C
+ Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino B
  Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino A para o pino C
+ Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino B
  Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino A para o pino C
+ Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino B
  Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino B
  Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino B
  Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino A para o pino C
+ Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino B
  Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino A para o pino C
+ Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino B
  Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino A para o pino C
+ Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino B
  Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino B
  Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino B
  Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino A para o pino C
+ Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino B
  Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino A para o pino C
+ Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino B
  Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino A para o pino C
+ Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino B
  Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino B
  Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino B
  Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino A para o pino C
+ Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino B
  Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino B
  Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino A para o pino C
+ Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino B
  Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino B
  Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino B
  Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino B
  Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino A para o pino C
+ Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino B
  Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino A para o pino C
+ Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino B
  Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino A para o pino C
+ Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino B
  Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino B
  Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino B
  Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino A para o pino C
+ Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino B
  Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
 A sequencia de passos na torre de hanoi com N = 10 é: 1023
 
 A sequencia de movimentos com N = 9 é:
@@ -1033,11 +1033,11 @@ A sequencia de movimentos com N = 9 é:
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino C
  Mover disco de pino B para o pino A
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
  Mover disco de pino B para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino C
@@ -1045,47 +1045,35 @@ A sequencia de movimentos com N = 9 é:
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino C
  Mover disco de pino B para o pino A
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino A para o pino B
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino C
  Mover disco de pino B para o pino A
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino A para o pino B
  Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
  Mover disco de pino B para o pino A
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino C
  Mover disco de pino B para o pino A
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
  Mover disco de pino B para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
  Mover disco de pino B para o pino A
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino C
- Mover disco de pino A para o pino B
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
  Mover disco de pino B para o pino A
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino A para o pino B
  Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
  Mover disco de pino B para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino C
@@ -1093,11 +1081,11 @@ A sequencia de movimentos com N = 9 é:
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino C
  Mover disco de pino B para o pino A
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
  Mover disco de pino B para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino C
@@ -1105,65 +1093,47 @@ A sequencia de movimentos com N = 9 é:
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino C
  Mover disco de pino B para o pino A
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino C
- Mover disco de pino A para o pino B
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
  Mover disco de pino B para o pino A
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino A para o pino B
  Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
  Mover disco de pino B para o pino A
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino C
  Mover disco de pino B para o pino A
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino A para o pino B
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino C
  Mover disco de pino B para o pino A
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino A para o pino B
  Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
  Mover disco de pino B para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
  Mover disco de pino B para o pino A
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino A para o pino B
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino C
  Mover disco de pino B para o pino A
  Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino A para o pino B
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
  Mover disco de pino B para o pino A
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino C
  Mover disco de pino B para o pino A
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
  Mover disco de pino B para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino C
@@ -1171,35 +1141,35 @@ A sequencia de movimentos com N = 9 é:
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino C
  Mover disco de pino B para o pino A
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino A para o pino B
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino C
  Mover disco de pino B para o pino A
  Mover disco de pino C para o pino B
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino A
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino C
  Mover disco de pino B para o pino A
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
  Mover disco de pino B para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
  Mover disco de pino B para o pino A
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino C
- Mover disco de pino A para o pino B
+ Mover disco de pino B para o pino A
  Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
  Mover disco de pino B para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino C
@@ -1207,41 +1177,47 @@ A sequencia de movimentos com N = 9 é:
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino C
  Mover disco de pino B para o pino A
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
  Mover disco de pino B para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino C para o pino B
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino A
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino C
  Mover disco de pino B para o pino A
  Mover disco de pino C para o pino B
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino A
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino C
  Mover disco de pino B para o pino A
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino C
- Mover disco de pino A para o pino B
+ Mover disco de pino B para o pino A
  Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
  Mover disco de pino B para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
  Mover disco de pino B para o pino A
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino C
- Mover disco de pino A para o pino B
+ Mover disco de pino B para o pino A
  Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
  Mover disco de pino B para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino C
@@ -1249,11 +1225,11 @@ A sequencia de movimentos com N = 9 é:
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino C
  Mover disco de pino B para o pino A
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
  Mover disco de pino B para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino C
@@ -1261,35 +1237,35 @@ A sequencia de movimentos com N = 9 é:
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino C
  Mover disco de pino B para o pino A
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino A para o pino B
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino C
  Mover disco de pino B para o pino A
  Mover disco de pino C para o pino B
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino A
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino C
  Mover disco de pino B para o pino A
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
  Mover disco de pino B para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
  Mover disco de pino B para o pino A
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino C
- Mover disco de pino A para o pino B
+ Mover disco de pino B para o pino A
  Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
  Mover disco de pino B para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino C
@@ -1297,11 +1273,11 @@ A sequencia de movimentos com N = 9 é:
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino C
  Mover disco de pino B para o pino A
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
  Mover disco de pino B para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino C
@@ -1309,41 +1285,47 @@ A sequencia de movimentos com N = 9 é:
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino C
  Mover disco de pino B para o pino A
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino A para o pino B
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino C
  Mover disco de pino B para o pino A
  Mover disco de pino C para o pino B
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino A
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino C
  Mover disco de pino B para o pino A
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino C
- Mover disco de pino A para o pino B
+ Mover disco de pino B para o pino A
  Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
  Mover disco de pino B para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino C para o pino B
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino A
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino C
  Mover disco de pino B para o pino A
  Mover disco de pino C para o pino B
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino A
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino C
  Mover disco de pino B para o pino A
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
  Mover disco de pino B para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino C
@@ -1351,35 +1333,35 @@ A sequencia de movimentos com N = 9 é:
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino C
  Mover disco de pino B para o pino A
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino C
- Mover disco de pino A para o pino B
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
  Mover disco de pino B para o pino A
  Mover disco de pino C para o pino B
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino A
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino C
  Mover disco de pino B para o pino A
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino C
- Mover disco de pino A para o pino B
+ Mover disco de pino B para o pino A
  Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
  Mover disco de pino B para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
  Mover disco de pino B para o pino A
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino C
- Mover disco de pino A para o pino B
+ Mover disco de pino B para o pino A
  Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
  Mover disco de pino B para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino C
@@ -1387,47 +1369,59 @@ A sequencia de movimentos com N = 9 é:
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino C
  Mover disco de pino B para o pino A
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
  Mover disco de pino B para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino C para o pino B
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino A
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino C
  Mover disco de pino B para o pino A
  Mover disco de pino C para o pino B
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino A
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino C
  Mover disco de pino B para o pino A
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino C
- Mover disco de pino A para o pino B
+ Mover disco de pino B para o pino A
  Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
  Mover disco de pino B para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino C para o pino B
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino A
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino C
  Mover disco de pino B para o pino A
  Mover disco de pino C para o pino B
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino A
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino C
  Mover disco de pino B para o pino A
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
  Mover disco de pino B para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino C
@@ -1435,35 +1429,35 @@ A sequencia de movimentos com N = 9 é:
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino C
  Mover disco de pino B para o pino A
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino C
- Mover disco de pino A para o pino B
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
  Mover disco de pino B para o pino A
  Mover disco de pino C para o pino B
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino A
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino C
  Mover disco de pino B para o pino A
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
  Mover disco de pino B para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
  Mover disco de pino B para o pino A
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino C
- Mover disco de pino A para o pino B
+ Mover disco de pino B para o pino A
  Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
  Mover disco de pino B para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino C
@@ -1471,11 +1465,11 @@ A sequencia de movimentos com N = 9 é:
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino C
  Mover disco de pino B para o pino A
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
  Mover disco de pino B para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino C
@@ -1483,41 +1477,47 @@ A sequencia de movimentos com N = 9 é:
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino C
  Mover disco de pino B para o pino A
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino A para o pino B
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino C
  Mover disco de pino B para o pino A
  Mover disco de pino C para o pino B
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino A
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino C
  Mover disco de pino B para o pino A
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino C
- Mover disco de pino A para o pino B
+ Mover disco de pino B para o pino A
  Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
  Mover disco de pino B para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino C para o pino B
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino A
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino C
  Mover disco de pino B para o pino A
  Mover disco de pino C para o pino B
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino A
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino C
  Mover disco de pino B para o pino A
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
  Mover disco de pino B para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino C
@@ -1525,19 +1525,19 @@ A sequencia de movimentos com N = 9 é:
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino C
  Mover disco de pino B para o pino A
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino A para o pino B
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino C
  Mover disco de pino B para o pino A
  Mover disco de pino C para o pino B
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino A
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino C
  Mover disco de pino B para o pino A
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino C
 A sequencia de passos na torre de hanoi com N = 9 é: 511
 
@@ -1672,132 +1672,132 @@ A sequencia de movimentos com N = 8 é:
  Mover disco de pino A para o pino B
  Mover disco de pino A para o pino C
  Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino A para o pino C
+ Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
+ Mover disco de pino C para o pino B
+ Mover disco de pino A para o pino B
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
+ Mover disco de pino A para o pino B
+ Mover disco de pino A para o pino C
+ Mover disco de pino B para o pino C
+ Mover disco de pino A para o pino B
+ Mover disco de pino C para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino B
  Mover disco de pino A para o pino C
+ Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
+ Mover disco de pino A para o pino B
+ Mover disco de pino A para o pino C
+ Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
+ Mover disco de pino C para o pino B
+ Mover disco de pino A para o pino B
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino B
  Mover disco de pino A para o pino C
+ Mover disco de pino B para o pino C
+ Mover disco de pino A para o pino B
+ Mover disco de pino C para o pino A
+ Mover disco de pino C para o pino B
+ Mover disco de pino A para o pino B
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
+ Mover disco de pino A para o pino B
+ Mover disco de pino A para o pino C
+ Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
+ Mover disco de pino C para o pino B
+ Mover disco de pino A para o pino B
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
+ Mover disco de pino A para o pino B
+ Mover disco de pino A para o pino C
+ Mover disco de pino B para o pino C
+ Mover disco de pino A para o pino B
+ Mover disco de pino C para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino B
  Mover disco de pino A para o pino C
+ Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
+ Mover disco de pino A para o pino B
+ Mover disco de pino A para o pino C
+ Mover disco de pino B para o pino C
+ Mover disco de pino A para o pino B
+ Mover disco de pino C para o pino A
+ Mover disco de pino C para o pino B
+ Mover disco de pino A para o pino B
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino B
  Mover disco de pino A para o pino C
+ Mover disco de pino B para o pino C
+ Mover disco de pino A para o pino B
+ Mover disco de pino C para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino B
  Mover disco de pino A para o pino C
+ Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
+ Mover disco de pino A para o pino B
+ Mover disco de pino A para o pino C
+ Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
+ Mover disco de pino C para o pino B
+ Mover disco de pino A para o pino B
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
+ Mover disco de pino A para o pino B
+ Mover disco de pino A para o pino C
+ Mover disco de pino B para o pino C
+ Mover disco de pino A para o pino B
+ Mover disco de pino C para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino B
  Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
 A sequencia de passos na torre de hanoi com N = 8 é: 255
 
 A sequencia de movimentos com N = 7 é:
@@ -1807,11 +1807,11 @@ A sequencia de movimentos com N = 7 é:
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino C
  Mover disco de pino B para o pino A
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
  Mover disco de pino B para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino C
@@ -1819,11 +1819,35 @@ A sequencia de movimentos com N = 7 é:
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino C
  Mover disco de pino B para o pino A
+ Mover disco de pino B para o pino C
+ Mover disco de pino A para o pino C
+ Mover disco de pino B para o pino A
  Mover disco de pino C para o pino B
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino A
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino B para o pino C
+ Mover disco de pino A para o pino C
+ Mover disco de pino A para o pino B
+ Mover disco de pino C para o pino B
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino B
+ Mover disco de pino A para o pino C
+ Mover disco de pino A para o pino B
+ Mover disco de pino C para o pino B
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino A
+ Mover disco de pino B para o pino C
+ Mover disco de pino A para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino B
+ Mover disco de pino C para o pino A
  Mover disco de pino B para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino C
@@ -1831,11 +1855,11 @@ A sequencia de movimentos com N = 7 é:
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino C
  Mover disco de pino B para o pino A
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
  Mover disco de pino B para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino C
@@ -1843,11 +1867,47 @@ A sequencia de movimentos com N = 7 é:
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino C
  Mover disco de pino B para o pino A
+ Mover disco de pino B para o pino C
+ Mover disco de pino A para o pino C
+ Mover disco de pino B para o pino A
  Mover disco de pino C para o pino B
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino A
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino B para o pino C
+ Mover disco de pino A para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino B
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino B
+ Mover disco de pino A para o pino C
+ Mover disco de pino A para o pino B
+ Mover disco de pino C para o pino B
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino A
+ Mover disco de pino B para o pino C
+ Mover disco de pino A para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino B
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino A
+ Mover disco de pino B para o pino C
+ Mover disco de pino A para o pino C
+ Mover disco de pino A para o pino B
+ Mover disco de pino C para o pino B
+ Mover disco de pino A para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino B para o pino C
+ Mover disco de pino A para o pino C
+ Mover disco de pino A para o pino B
+ Mover disco de pino C para o pino B
+ Mover disco de pino C para o pino A
  Mover disco de pino B para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino C
@@ -1855,79 +1915,19 @@ A sequencia de movimentos com N = 7 é:
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino C
  Mover disco de pino B para o pino A
+ Mover disco de pino B para o pino C
+ Mover disco de pino A para o pino C
+ Mover disco de pino B para o pino A
  Mover disco de pino C para o pino B
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino A
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino C
  Mover disco de pino B para o pino A
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino A para o pino B
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino B para o pino A
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino A para o pino B
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino B para o pino A
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino A para o pino B
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino B para o pino A
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino A para o pino B
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino B para o pino A
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino A para o pino B
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino B para o pino A
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino A para o pino B
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino B para o pino A
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino A para o pino B
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino B para o pino A
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino A para o pino B
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino B para o pino A
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino A para o pino B
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino B para o pino A
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino A para o pino B
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino B para o pino A
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino A para o pino B
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino B para o pino A
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino C
 A sequencia de passos na torre de hanoi com N = 7 é: 127
 
@@ -1966,36 +1966,36 @@ A sequencia de movimentos com N = 6 é:
  Mover disco de pino A para o pino B
  Mover disco de pino A para o pino C
  Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino A para o pino C
+ Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
+ Mover disco de pino C para o pino B
+ Mover disco de pino A para o pino B
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
+ Mover disco de pino A para o pino B
+ Mover disco de pino A para o pino C
+ Mover disco de pino B para o pino C
+ Mover disco de pino A para o pino B
+ Mover disco de pino C para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino B
  Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
 A sequencia de passos na torre de hanoi com N = 6 é: 63
 
 A sequencia de movimentos com N = 5 é:
@@ -2005,11 +2005,11 @@ A sequencia de movimentos com N = 5 é:
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino C
  Mover disco de pino B para o pino A
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
+ Mover disco de pino C para o pino A
  Mover disco de pino B para o pino A
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino C
@@ -2017,19 +2017,19 @@ A sequencia de movimentos com N = 5 é:
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino C
  Mover disco de pino B para o pino A
+ Mover disco de pino B para o pino C
+ Mover disco de pino A para o pino C
+ Mover disco de pino B para o pino A
  Mover disco de pino C para o pino B
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino A
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino C
  Mover disco de pino B para o pino A
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino A para o pino B
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino B para o pino A
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino C
 A sequencia de passos na torre de hanoi com N = 5 é: 31
 
@@ -2044,12 +2044,12 @@ A sequencia de movimentos com N = 4 é:
  Mover disco de pino A para o pino B
  Mover disco de pino A para o pino C
  Mover disco de pino B para o pino C
+ Mover disco de pino B para o pino A
+ Mover disco de pino C para o pino A
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino B
  Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
- Mover disco de pino A para o pino B
- Mover disco de pino A para o pino C
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
 A sequencia de passos na torre de hanoi com N = 4 é: 15
 
 A sequencia de movimentos com N = 3 é:
@@ -2059,6 +2059,6 @@ A sequencia de movimentos com N = 3 é:
  Mover disco de pino C para o pino B
  Mover disco de pino A para o pino C
  Mover disco de pino B para o pino A
- Mover disco de pino C para o pino B
+ Mover disco de pino B para o pino C
  Mover disco de pino A para o pino C
 A sequencia de passos na torre de hanoi com N = 3 é: 7

@@ -49,11 +49,6 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -69,7 +64,8 @@
       <option name="presentableId" value="Default" />
       <updated>1627745562054</updated>
       <workItem from="1627745563120" duration="14654000" />
-      <workItem from="1627999402658" duration="15404000" />
+      <workItem from="1627999402658" duration="15599000" />
+      <workItem from="1628122903829" duration="1623000" />
     </task>
     <servers />
   </component>
@@ -81,22 +77,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1627745762921" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1628117843484">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1628128568470">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1628117843484" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1628117843484">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1628128568470" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1628128568470">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1628117843484" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1628117843484">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1628128568470" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1628128568470">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1628117843484" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1628117843484">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1628128568470" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1628128568470">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1628117843484" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1628128568470" />
     <state x="461" y="165" key="SettingsEditor" timestamp="1628116899342">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

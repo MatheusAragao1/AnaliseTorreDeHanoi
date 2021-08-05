@@ -106,7 +106,7 @@ int movimentolegal(int *p, int *q, int n){
     p0 = p[0];
     q0 = q[0];
 
-    if ((p0 < q0) || (q0 == 0)){ //movimento legal
+    if (((p0 < q0) || (q0 == 0)) && (p0 !=0)){ //movimento legal
         insercao(p0, q, n);
         remocao(p, n);
         return 1; //direcao original
@@ -122,7 +122,7 @@ void torreDeHanoiIterativa_metodo_MovimentoLegal(int numDisk, int printar, int *
 {
     //https://www.geeksforgeeks.org/iterative-tower-of-hanoi/
     //https://en.m.wikipedia.org/wiki/Tower_of_Hanoi
-    int k;
+    int k = 0;
     int even;
     int *A, *B, *C;
     int direcao;
@@ -147,8 +147,11 @@ void torreDeHanoiIterativa_metodo_MovimentoLegal(int numDisk, int printar, int *
         even = 1; //é par
     }
     else {even = 0;}
-    //printf(" \n  k = %d", k);
-    for (k = 1; k < (1 << numDisk); k++){
+
+    while (C[numDisk-1] != numDisk)
+    //for (k = 1; k < (1 << numDisk); k++)
+    {
+        k=k+1; //Quando utilizar o while
         if (even == 0) {
             if (k % 3 == 1) {
                 //movimentolegal(A, C, *direcao);
@@ -164,7 +167,7 @@ void torreDeHanoiIterativa_metodo_MovimentoLegal(int numDisk, int printar, int *
             }
             if (k % 3 == 0) {
                 //movimentolegal(B, C, *direcao);
-                direcao = movimentolegal(A, C, numDisk);
+                direcao = movimentolegal(B, C, numDisk);
                 if (direcao) {De = "B"; Para= "C";}
                 else         {De = "C"; Para= "B";}
             }
